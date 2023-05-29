@@ -1,0 +1,31 @@
+.red {
+  background-color: #dd8585;
+  border: solid black 1px;
+  padding: 8px;
+}
+.yellow {
+  background-color: #ebfcb3;
+  border: solid black 1px;
+  padding: 8px;
+}
+.blue {
+  background-color: #9aace0;
+  border: solid black 1px;
+  padding: 8px;
+}
+table {
+  margin-left: 15%;
+  margin-top: 7%;
+}
+body {
+  background-color: grey;
+}
+.green {
+  background-color: #a3e0ae;
+  border: solid black 1px;
+  padding: 8px;
+}
+
+h1 {
+  margin-top: 50px;
+}

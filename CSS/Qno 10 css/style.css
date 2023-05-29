@@ -1,0 +1,45 @@
+/* Common styles for all screen sizes */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.box {
+  flex-basis: 30%;
+  margin-bottom: 20px;
+  background-color: #685a5a;
+  padding: 20px;
+}
+.box2 {
+  flex-basis: 30%;
+  margin-bottom: 20px;
+  background-color: #9a2f78;
+  padding: 150px 20px;
+}
+.box3 {
+  flex-basis: 30%;
+  margin-bottom: 20px;
+  background-color: #8e970d;
+  padding: 80px 20px;
+}
+.box4 {
+  flex-basis: 30%;
+  margin-bottom: 20px;
+  background-color: #227c29;
+  padding: 30px 20px;
+}
+
+/* Tablet styles */
+@media screen and (max-width: 768px) {
+  .box {
+    flex-basis: 45%;
+  }
+}
+
+/* Mobile styles */
+@media screen and (max-width: 480px) {
+  .box {
+    flex-basis: 100%;
+  }
+}

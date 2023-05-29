@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Music Player</title>
+    <style>
+      /* Add styling for the music player */
+      .music-player {
+        background-color: #f5f5f5;
+        padding: 20px;
+        width: 300px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      }
+
+      .music-player h2 {
+        margin-top: 0;
+      }
+
+      .music-player audio {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      .music-player ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .music-player li {
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="music-player">
+      <h2>Now Playing: Mann Meri Jaan</h2>
+      <audio controls>
+        <source
+          src="https://pagalsong.in/uploads/systemuploads/mp3/Champagne Talk/Maan Meri Jaan - Champagne Talk 128 Kbps.mp3"
+          type="audio/mpeg"
+        />
+        Your browser does not support the audio element.
+      </audio>
+      <ul>
+        <li>Song 1</li>
+        <li>Song 2</li>
+        <li>Song 3</li>
+      </ul>
+    </div>
+  </body>
+</html>
