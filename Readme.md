@@ -15,3 +15,5 @@
 [live link of CSS Qno 10] ("https://646df3aa2d817700b2b5f18d--glistening-pithivier-423a42.netlify.app/") of the Responsiveness
 
 [live link of css Qno 11] ("")
+
+[Live link of JavaScript Qno 12] (""https://fetch-using-js.netlify.app/)
