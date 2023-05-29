@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blog App</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Blog App</h1>
+
+    <div class="container">
+      <div class="form-container">
+        <h2>Add New Blog</h2>
+        <form id="blogForm">
+          <label for="title">Title:</label>
+          <input type="text" id="title" required /><br /><br />
+          <label for="body">Body:</label>
+          <textarea id="body" rows="4" required></textarea><br /><br />
+          <button type="submit">Add Blog</button>
+        </form>
+      </div>
+
+      <div class="blog-container">
+        <h2>Blog List</h2>
+        <ul id="blogList" class="blog-list"></ul>
+      </div>
+    </div>
+  </body>
+  <script src="./script.js"></script>
+</html>
