@@ -26,6 +26,6 @@ https://todo-app-react-javascript.netlify.app/
 
 [live link of react counter app qno 12] ("https://counter-using-reactjs-css.netlify.app/")
 
-[live link of react calculator app qno 13] ("")
+[live link of react calculator app qno 13] ("https://rad-sorbet-44bda6.netlify.app/")
 
 [live link of react tic-tac-toe app qno 14] ("https://tic-tac-toe-js-react.netlify.app/")
