@@ -17,3 +17,15 @@
 [live link of css Qno 11] ("")
 
 [Live link of JavaScript Qno 12] (""https://fetch-using-js.netlify.app/)
+
+[live link of react dark light theme qno 9] ("https://dark-theme-js-react.netlify.app/")
+
+[live link of react todo app qno 11] ("
+https://todo-app-react-javascript.netlify.app/
+")
+
+[live link of react counter app qno 12] ("https://counter-using-reactjs-css.netlify.app/")
+
+[live link of react calculator app qno 13] ("")
+
+[live link of react tic-tac-toe app qno 14] ("https://tic-tac-toe-js-react.netlify.app/")
